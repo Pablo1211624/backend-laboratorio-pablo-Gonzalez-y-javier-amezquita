@@ -1,5 +1,5 @@
 // Reemplace la URL por la URL pública de su servicio en Render.
-const API_URL = 'https://ejercicionube.onrender.com/api/mensaje ';
+const API_URL = 'https://ejercicionube.onrender.com/api/mensaje';
 
 document.getElementById('consultar').addEventListener('click', async () => {
   const resultado = document.getElementById('resultado');
